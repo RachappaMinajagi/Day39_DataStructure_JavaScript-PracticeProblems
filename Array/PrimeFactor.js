@@ -18,4 +18,4 @@ if(num > 2)
 for(let value of primeFactors)
 {
     console.log(value);
-}
+} 
