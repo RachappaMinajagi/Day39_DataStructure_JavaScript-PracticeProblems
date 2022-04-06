@@ -27,4 +27,4 @@ function RepeatedDigits(num)
     }
 
     return 0; //Repeate 0 if there is no repeated digits
-}
+} 
