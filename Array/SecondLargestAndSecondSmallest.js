@@ -6,7 +6,7 @@ for(let i = 1;i <= 10; i++)
 }
 console.log("Random Number in an Array are: ");
 console.log(arr.join(','));
-
+ 
 let sortedArray = arr.sort(); //Sort Function for array.
 console.log("The Sorted Array : ");
 console.log(sortedArray.join(',')); //Print the Sorted Array.
