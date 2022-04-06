@@ -1,7 +1,7 @@
 let arr = [0, 1, 2, -1, -3]
 FindTriplte(arr, arr.length);
 
-function FindTriplte(arr, length)
+function FindTriplte(arr, length) 
 {
     let isFound = false;
     console.log("Sum of Three Numbers Equal to Zero are : ");
